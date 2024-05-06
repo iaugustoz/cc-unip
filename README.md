@@ -1,6 +1,6 @@
 # Ciência da Computação - UNIP 🎓
 
-Este repositório contém um apanhado de livros texto, questioná, provas passadas e outros materiais de estudo para os alunos do curso de Ciência da Computação da Universidade Paulista (UNIP). O objetivo é fornecer um recurso centralizado para os alunos acessarem e compartilharem materiais de estudo relevantes para o curso.
+Este repositório contém um apanhado de livros texto, questionários, provas passadas e outros materiais de estudo para os alunos do curso de Ciência da Computação da Universidade Paulista (UNIP). O objetivo é fornecer um recurso centralizado para os alunos acessarem e compartilharem materiais de estudo relevantes para o curso.
 
 ## Como Contribuir
 
